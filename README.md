@@ -24,5 +24,4 @@ The model predicts user ratings for movies and recommends unseen movies with the
    ```bash
    pip install -r requirements.txt
    
-3. - Open the notebooks in numercial order
-   - Run all cells in each notebook
+3. Open the `.ipynb` files in VS Code and run the cells.
